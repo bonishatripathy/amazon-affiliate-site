@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Top Deals Just For You</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <nav class="nav">
+      <h2>🔥 Best Deals</h2>
+      <a href="#offers" class="nav-btn">View Offers</a>
+    </nav>
+
+    <div class="hero-content">
+      <h1>Exclusive Deals You Don’t Want to Miss</h1>
+      <p>Hand-picked products & services with massive discounts. Limited time only.</p>
+      <a href="#offers" class="cta-btn">Start Saving Now</a>
+    </div>
+  </header>
+
+  <!-- TRUST -->
+  <section class="trust">
+    <div>✅ Verified Offers</div>
+    <div>💰 Best Price Guaranteed</div>
+    <div>🔒 Secure & Trusted</div>
+  </section>
+
+  <!-- OFFERS -->
+  <section class="offers" id="offers">
+    <h2>🔥 Top Affiliate Picks</h2>
+
+    <div class="offer-grid">
+
+      <div class="offer-card">
+        <img src="https://picsum.photos/300/200?1">
+        <h3>Online Course Platform</h3>
+        <p>Learn high-income skills with expert-led courses.</p>
+        <a href="YOUR_AFFILIATE_LINK" target="_blank">Get Deal</a>
+      </div>
+
+      <div class="offer-card">
+        <img src="https://picsum.photos/300/200?2">
+        <h3>Web Hosting Service</h3>
+        <p>Fast, secure, and beginner-friendly hosting solution.</p>
+        <a href="YOUR_AFFILIATE_LINK" target="_blank">Claim Offer</a>
+      </div>
+
+      <div class="offer-card">
+        <img src="https://picsum.photos/300/200?3">
+        <h3>AI Tools Bundle</h3>
+        <p>Boost productivity with premium AI tools.</p>
+        <a href="YOUR_AFFILIATE_LINK" target="_blank">Access Now</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="final-cta">
+    <h2>🚀 Ready to Upgrade Your Life?</h2>
+    <p>These offers won’t last long. Grab them while you can.</p>
+    <a href="#offers">See All Deals</a>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Best Deals | Affiliate Disclosure: We may earn commissions.</p>
+  </footer>
+
+</body>
+</html>
